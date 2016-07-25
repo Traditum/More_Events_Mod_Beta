@@ -1,0 +1,14 @@
+#Strange Energy Readings
+#Idea and writing by shockedsystem
+#Original Code by asnys
+#Code adapted by Traditum
+anomaly = {
+	event = mem_energy_readings.10
+	category = mem_energy_readings_category
+	
+	weight = 1
+	
+	potential = {
+		always = yes
+	}
+}
